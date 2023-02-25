@@ -14,5 +14,5 @@ require (
 	github.com/patrickmn/go-cache v2.1.0+incompatible
 	github.com/pkg/errors v0.9.1
 	github.com/urfave/cli/v2 v2.3.0
-	golang.org/x/sys v0.0.0-20210927052749-1cf2251ac284 // indirect
+	golang.org/x/sys v0.1.0 // indirect
 )
